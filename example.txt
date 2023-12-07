@@ -1,6 +1,7 @@
-#Name ov da book
+#Name of the book
 
-#chapta 1
+#chapter One
 
-#chapta 2
+#chapter Two
 
+#chapter Three
